@@ -1,0 +1,6 @@
+README.md
+setup.py
+vgg19_extractor/vgg19_extractor.egg-info/PKG-INFO
+vgg19_extractor/vgg19_extractor.egg-info/SOURCES.txt
+vgg19_extractor/vgg19_extractor.egg-info/dependency_links.txt
+vgg19_extractor/vgg19_extractor.egg-info/top_level.txt
